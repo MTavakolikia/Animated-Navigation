@@ -204,7 +204,7 @@ section {
 }
 
 section#home {
-  background-image: url("mainBackgroundImage.jpg");
+  background-image: url("mainBackGroundImage.jpg");
   background-size: cover;
   background-position: center center;
 }
